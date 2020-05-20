@@ -37,7 +37,7 @@ metadata:
 spec:
     selector:
         source: demo
-        app: mild-temper-microservice
+        app: developed-radiation-microservice
     ports:
         -   name: web
             protocol: TCP
